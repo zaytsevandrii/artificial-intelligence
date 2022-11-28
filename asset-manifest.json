@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/artificial-intelligence/static/css/main.073c9b0a.css",
+    "main.js": "/artificial-intelligence/static/js/main.fe37a83a.js",
+    "static/js/787.49fd9e34.chunk.js": "/artificial-intelligence/static/js/787.49fd9e34.chunk.js",
+    "index.html": "/artificial-intelligence/index.html",
+    "main.073c9b0a.css.map": "/artificial-intelligence/static/css/main.073c9b0a.css.map",
+    "main.fe37a83a.js.map": "/artificial-intelligence/static/js/main.fe37a83a.js.map",
+    "787.49fd9e34.chunk.js.map": "/artificial-intelligence/static/js/787.49fd9e34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fe37a83a.js"
+  ]
+}
