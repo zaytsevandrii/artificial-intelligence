@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Artificial Intelligence
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Used
 
-In the project directory, you can run:
+angrytools.com
 
 ### `npm start`
 
